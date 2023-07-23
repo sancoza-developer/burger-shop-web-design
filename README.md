@@ -1,4 +1,4 @@
-# Burger shop web design
+# Burger shop web design 🍔
 
 ### 😎 ADVANCED
 
